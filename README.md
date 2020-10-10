@@ -31,42 +31,42 @@ Finally, we present several tables summarizing the execution times of our approa
 
 Two attributes / One sensitive attribute
 
-![](results/relative_error/relative_error_2_1.JPG)
+![](results/relative_error/relative_error_2_1.jpg)
 
 Two attributes / Two sensitive attributes
 
-![](results/relative_error/relative_error_2_2.JPG)
+![](results/relative_error/relative_error_2_2.jpg)
 
 Three attributes / One sensitive attribute
 
-![](results/relative_error/relative_error_3_1.JPG)
+![](results/relative_error/relative_error_3_1.jpg)
 
 Three attributes / Two sensitive attributes
 
-![](results/relative_error/relative_error_3_2.JPG)
+![](results/relative_error/relative_error_3_2.jpg)
 
 Four attributes / One sensitive attribute
 
-![](results/relative_error/relative_error_4_1.JPG)
+![](results/relative_error/relative_error_4_1.jpg)
 
 Four attributes / Two sensitive attributes
 
-![](results/relative_error/relative_error_4_2.JPG)
+![](results/relative_error/relative_error_4_2.jpg)
 
 
 ### Comparison with a suppression technique: Query-based linked data anonymization by Delanaux et al.
 
 2 attributes
 
-![](results/delanaux_relative_error/eval_delanaux_2.JPG)
+![](results/delanaux_relative_error/eval_delanaux_2.jpg)
 
 3 attributes
 
-![](results/delanaux_relative_error/eval_delanaux_3.JPG)
+![](results/delanaux_relative_error/eval_delanaux_3.jpg)
 
 4 attributes
 
-![](results/delanaux_relative_error/eval_delanaux_4.JPG)
+![](results/delanaux_relative_error/eval_delanaux_4.jpg)
 
 
 In a generalization/suppression context, we can only assume a uniform distribution for the values of the sensitives attributes. Hence, in the above-figures, we can see that the technique performs well when the values are indeed uniformly distributed but fails to provide satisfiable results otherwise.
